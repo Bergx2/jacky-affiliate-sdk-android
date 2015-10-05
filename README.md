@@ -1,1 +1,0 @@
-# jacky-affiliate-sdk-android
